@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int  main(){
+int  main(){//hello2
     cout << "===================================" << endl;
     cout << "name : Tai-Hao-Tseng" << endl;
     cout << "grade : 1" << endl;
